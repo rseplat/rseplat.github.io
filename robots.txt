@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rseplat.github.io/sitemap.html.gz
+Sitemap: https://rseplat.github.io/app/sitemap.html.gz
+Sitemap: https://rseplat.github.io/assets/sitemap.html.gz
+Sitemap: https://rseplat.github.io/css/sitemap.html.gz
+Sitemap: https://rseplat.github.io/data/sitemap.html.gz
+Sitemap: https://rseplat.github.io/includes/sitemap.html.gz
+Sitemap: https://rseplat.github.io/item/sitemap.html.gz
+Sitemap: https://rseplat.github.io/src/sitemap.html.gz
